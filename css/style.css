@@ -923,7 +923,9 @@ ul.iconlist li {
     .feature-title::before,
     .feature-title::after,
     .arrival-title::before,
-    .arrival-title::after
+    .arrival-title::after,
+    .brand-title::before,
+    .brand-title::after
      {
         display: none;
     }
@@ -972,6 +974,14 @@ ul.iconlist li {
     #discover {
         padding-top: 33px;
         padding-bottom: 33px;
+    }
+
+    #discover .offset-1 {
+        margin-left: 0;
+    }
+
+    .discover_center{
+        padding-left: 38px;
     }
 }
 
