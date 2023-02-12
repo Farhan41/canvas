@@ -1,0 +1,9 @@
+@media (max-width:575px){
+    #top-bar p {
+        font-size: 11px;
+    }
+
+    #navbar .logo img {
+        padding: 0 20px;
+    }
+}
