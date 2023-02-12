@@ -935,12 +935,12 @@ ul.iconlist li {
     }
 
     .feature_wrap .product-image img {
-        width: 136px;
+        width: 143px;
         height: 200px;
     }
 
     #feature .product-title h3 {
-        font-size: 13px;
+        font-size: 14px;
         
     }
 
@@ -949,7 +949,7 @@ ul.iconlist li {
     }
 
     .arrival_wrap .product-image img {
-        width: 135px;
+        width: 143px;
         height: 204px;
     }
 
@@ -982,6 +982,11 @@ ul.iconlist li {
 
     .discover_center{
         padding-left: 38px;
+    }
+
+    #autumn {
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 }
 
